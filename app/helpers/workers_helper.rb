@@ -1,0 +1,3 @@
+module WorkersHelper
+
+end

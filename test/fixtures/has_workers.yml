@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  medical_center: one
+  worker: one
+
+two:
+  medical_center: two
+  worker: two
